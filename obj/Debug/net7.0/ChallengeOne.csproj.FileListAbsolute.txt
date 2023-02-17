@@ -1,0 +1,15 @@
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\bin\Debug\net7.0\ChallengeOne.exe
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\bin\Debug\net7.0\ChallengeOne.deps.json
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\bin\Debug\net7.0\ChallengeOne.runtimeconfig.json
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\bin\Debug\net7.0\ChallengeOne.dll
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\bin\Debug\net7.0\ChallengeOne.pdb
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.csproj.AssemblyReference.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.AssemblyInfoInputs.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.AssemblyInfo.cs
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.csproj.CoreCompileInputs.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.dll
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\refint\ChallengeOne.dll
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.pdb
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ChallengeOne.genruntimeconfig.cache
+C:\Users\Saulo Lima\Downloads\DesafiosBalta\ChallengeOne\obj\Debug\net7.0\ref\ChallengeOne.dll
