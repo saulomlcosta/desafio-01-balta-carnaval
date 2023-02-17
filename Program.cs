@@ -1,21 +1,17 @@
-﻿using System.Text.RegularExpressions;
-
-leituraTexto();
+﻿leituraTexto();
 Console.ReadLine();
 
 void leituraTexto()
 {
     Console.WriteLine("Digite um texto:");
     string? textoDigitado = Console.ReadLine();
-    Console.WriteLine("Esse texto foi digitado no console:");
-    Console.WriteLine(textoDigitado);
 
-    string textoSemEspacos = Regex.Replace(textoDigitado, @"\s", "");
-
-    if (textoSemEspacos.Any())
+    if (!string.IsNullOrEmpty(textoDigitado))
     {
-        List<string> quantidadePalavras = textoDigitado.Split(' ').ToList();
-        Console.WriteLine($"> {textoSemEspacos.Length} caracteres, {quantidadePalavras.Count()} palavras.");
+        Console.WriteLine("Esse texto foi digitado no console:");
+        Console.WriteLine(textoDigitado);
+
+        Console.WriteLine($"> {textoDigitado.Length} caracteres, {textoDigitado.Split(' ').Length} palavras.");
     }
     else
     {
